@@ -33,10 +33,10 @@ sudo apt-get install vim -y
 
 clear
 echo ""
-echo Installing 3/$total chromium-browser...  Please be patient...
+echo Installing 3/$total chromium...  Please be patient...
 echo ""
 echo ""
-sudo apt-get install chromium-browser -y
+sudo apt-get install chromium -y
 
 clear
 echo ""
