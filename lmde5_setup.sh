@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ### TODO
-### Fix LMDE package sources at start and what to change them to after as these are based off LinuxMint
+### Check mysql-workbench, virtualbox, and python-pip installs as they don't seem to work in debian edition
 ### Prompt to reboot Y/N
 ### Redshift Startup
 
